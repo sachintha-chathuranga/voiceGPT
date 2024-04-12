@@ -1,0 +1,14 @@
+{
+  "name": "voicegpt",
+  "version": "1.0.0",
+  "description": "This is a backend server that anable to giving the answer of any given text with voice",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Sachintha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
